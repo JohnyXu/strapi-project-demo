@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_text_blocks",
+  "info": {
+    "name": "Text-block",
+    "icon": "asterisk"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
